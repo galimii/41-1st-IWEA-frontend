@@ -110,12 +110,7 @@
 
 # 구현 기능
 
-​
-
 ## Front-End
-
-​
-
 ### Home Page
 - Home Layout (Flexbox, Grid 사용)
 - Prouct Page / Login Page / SignUp Page로 이동할 수 있게 useNavigate사용
@@ -131,8 +126,6 @@
 ​
 
 ### Login, SignUp
-
-​
 
 - 유효성 검사, 유효성 여부에 의한 레이아웃 변화
   ​
